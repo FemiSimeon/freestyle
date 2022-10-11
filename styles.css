@@ -8,8 +8,8 @@
     }
 .buttom-container{
    background-color: #E4F9F5;
-   padding: 50px;
-  
+   padding: 20px;
+   border-top: 50px; 
 }
 body {
     margin: 0px;
